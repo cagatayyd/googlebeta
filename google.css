@@ -1,0 +1,43 @@
+.search{
+    background-color: #e3e1e1;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 18px;
+}
+.yanyana{
+    float: left;
+}
+
+.kutu1{
+background-color: #7EE5DA;
+margin-left: 80px;
+margin-top: 2px;
+width: 400px;
+height:85px;
+padding-left: 350px;
+font-size: 18px;
+}
+
+.kutu2{
+    background-color: #51cdc1;
+    float: left;
+    margin-left: 2px;
+    margin-top: 2px;
+    padding-left: 100px;
+    width: 230px;
+    height: 85px;
+}
+
+.kutu3{
+background-color: #34aea2;
+margin-left: 2px;
+margin-top: 2px;
+width: 478px;
+height:85px;
+padding-left: 350px;
+}
+
+.copyright{
+    clear: both;
+    margin-top: 20px;
+}
